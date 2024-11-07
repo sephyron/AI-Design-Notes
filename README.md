@@ -4,7 +4,8 @@
 
 | Checklist Item                    | Description                                                                                                                         |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| **Clear Role Definition**         | Clearly communicate the roles and responsibilities of both the AI and human components to set expectations and avoid confusion.    |
+| **Clear Role Definition**         | Clearly communicate the roles and responsibilities of both the AI System and human in order to set expectations and avoid confusion.     |
+| **Set Boundaries**                | Establish ethical guidelines, policies and other boundaries that the AI System and human must adhere to.                            |
 | **Real-time Collaboration**       | Enable real-time communication and collaboration between human users and the AI system to facilitate efficient teamwork.           |
 | **Contextual Assistance**         | Provide AI-generated suggestions, recommendations, or insights that are relevant to the user's current task or context.           |
 | **Explainable AI**                | Present the reasoning behind AI-generated decisions or recommendations in an easily understandable manner.                        |
