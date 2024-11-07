@@ -1,4 +1,4 @@
-# AI-Notes
+# AI-Design-Notes
 
 ### Human in the loop checklist
 1. Clear Role Definition: Clearly communicate the roles and responsibilities of both the AI and human components to set expectations and avoid confusion.
