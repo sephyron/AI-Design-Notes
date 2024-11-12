@@ -2,7 +2,7 @@
 
 ### Human in the loop checklist
 
-| Checklist Item                    | Description                                                                                                                         |
+| Principle                    | Description                                                                                                                         |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | **Clear Role Definition**         | Clearly communicate the roles and responsibilities of both the AI System and human in order to set expectations and avoid confusion.     |
 | **Set Boundaries**                | Establish ethical guidelines, policies and other boundaries that the AI System and human must adhere to.                            |
